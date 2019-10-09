@@ -1,2 +1,2 @@
 # Image-Descriptor-Cataloger
-This was a project with C and OpenCV for Artificial Vision Subject.
+This was a project with C and OpenCV for Artificial Vision Subject. I used OpenCV 3.1.0 with Eclipse. This program reads the images (these have to be in the same folder of the cpp file and they must have a number like name, for example: 1.png), applies some descriptors of Artificial Vision and returns the result in a HTML table. The "catalogador.html" file has some images that have been read by the program and shows the results.
